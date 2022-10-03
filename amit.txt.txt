@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Amit is my brother. He is so sweet
+=======
+Amit is my brother. He is elder to me.
+>>>>>>> a1675677d052d7ad49820756528357a21e63b932
